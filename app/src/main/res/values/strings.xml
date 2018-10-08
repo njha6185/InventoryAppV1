@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InventoryAppV1</string>
+    <string name="insert">INSERT DATA TO SQLite</string>
+    <string name="read">READ DATA FROM SQLite</string>
+</resources>
